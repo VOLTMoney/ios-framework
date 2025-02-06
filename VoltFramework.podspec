@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
     spec.summary      = "Volt iOS SDK"
     spec.description  = "Lib to integrate voltmoney ios sdk"
     spec.homepage     = "https://github.com/VOLTMoney/ios-framework"
-    spec.license      = { :type => "MIT", :file => "LICENSE" }
+    spec.license      = "VoltMoney"
     spec.author       = { "Ankur Prajapati" => "ankur.prajapati@voltmoney.in" }
     spec.swift_version = '5.0'
     spec.source       = { :git => "https://github.com/VOLTMoney/ios-framework.git", :tag => spec.version.to_s }
